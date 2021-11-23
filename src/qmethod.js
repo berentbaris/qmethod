@@ -117,7 +117,7 @@ var generateMyTd = function(id, rows, colour) {
 	var topdiv = document.createElement('div');
 	// topdiv attr	
 	var topdivStyle = document.createAttribute('style');
-	topdivStyle.value = "width:150px;padding-right:10px;";
+	topdivStyle.value = "width:105px;padding-right:10px;";
 	topdiv.setAttributeNode(topdivStyle);
 
 	var paneldiv = document.createElement('div');

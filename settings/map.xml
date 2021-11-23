@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-	<column id="3" colour="#06960D">2</column>
-	<column id="2" colour="#45B149">6</column>
-	<column id="1" colour="#5ABA5D">10</column>
-	<column id="0" colour="#969292">14</column>
-	<column id="-1" colour="#FF8989">10</column>
-	<column id="-2" colour="#FF7171">6</column>
-	<column id="-3" colour="#E82A2A">2</column>
+	<column id="6" colour="#06960D">1</column>
+	<column id="5" colour="#06960D">2</column>
+	<column id="4" colour="#45B149">2</column>
+	<column id="3" colour="#45B149">3</column>
+	<column id="2" colour="#5ABA5D">4</column>
+	<column id="1" colour="#5ABA5D">5</column>
+	<column id="0" colour="#969292">6</column>
+	<column id="-1" colour="#FF8989">5</column>
+	<column id="-2" colour="#FF8989">4</column>
+	<column id="-3" colour="#FF7171">3</column>
+	<column id="-4" colour="#FF7171">2</column>
+	<column id="-5" colour="#E82A2A">2</column>
+	<column id="-6" colour="#E82A2A">1</column>
 </map>
 
