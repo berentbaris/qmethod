@@ -117,7 +117,7 @@ var generateMyTd = function(id, rows, colour) {
 	var topdiv = document.createElement('div');
 	// topdiv attr	
 	var topdivStyle = document.createAttribute('style');
-	topdivStyle.value = "width:105px;padding-right:10px;";
+	topdivStyle.value = "width:101px;padding-right:10px;";
 	topdiv.setAttributeNode(topdivStyle);
 
 	var paneldiv = document.createElement('div');
@@ -228,7 +228,7 @@ var generateMyTd = function(id, rows, colour) {
 	return toptd;
 }
 
-var app = angular.module('qmethod', ['formly','formlyBootstrap','ui.router', 'dndLists', 'igTruncate', '720kb.tooltips']);
+var app = angular.module('q-study-4c14a', ['formly','formlyBootstrap','ui.router', 'dndLists', 'igTruncate', '720kb.tooltips']);
 
 // ========== CONFIG
 app.config(function ($stateProvider, $locationProvider) {
